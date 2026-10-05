@@ -1,4 +1,5 @@
 # 🏋️ FitZone Gym & Fitness
+<img width="1280" height="5008" alt="https-fitzone someshsoftwareengineer-233 workers dev-" src="https://github.com/user-attachments/assets/7880200b-e511-4c1e-ac8c-638fd2f0b256" />
 
 A complete, production-ready gym/fitness management website built with **React + Vite** on the frontend and **Cloudflare Workers + Cloudflare D1** on the backend.
 
