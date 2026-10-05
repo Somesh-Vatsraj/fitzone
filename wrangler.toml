@@ -10,7 +10,7 @@ not_found_handling = "single-page-application"
 [[d1_databases]]
 binding = "DB"
 database_name = "fitzone-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "f9eccbcf-0493-4312-9736-5464e4c73471"
 
 [vars]
 ENVIRONMENT = "production"
