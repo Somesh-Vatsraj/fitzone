@@ -5,7 +5,7 @@ compatibility_date = "2025-01-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "fitzone"
-database_id = "PASTE_REAL_D1_ID_HERE"
+database_id = "5c905213-696a-4b56-9dc7-e75da4cde570"
 
 [vars]
 ENVIRONMENT = "production"
