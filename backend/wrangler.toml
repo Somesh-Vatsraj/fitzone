@@ -9,7 +9,3 @@ database_id = "5c905213-696a-4b56-9dc7-e75da4cde570"
 
 [vars]
 ENVIRONMENT = "production"
-[assets]
-directory = "./dist"
-binding = "ASSETS"
-run_worker_first = ["/api/*"]
